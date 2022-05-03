@@ -1,6 +1,8 @@
-Hi, I’m @stephaniaslis
+Hi, I’m Stephania!
 
-I’m currently learning Data Science
+Data Scientist 👩‍💻
+
+BSc in Chemical Sciences ⚛️
 
 <div align="align">
   <a href="https://github.com/stephaniaslis">
