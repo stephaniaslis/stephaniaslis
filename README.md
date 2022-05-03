@@ -2,19 +2,12 @@ Hi, I’m @stephaniaslis
 
 I’m currently learning Data Science
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
-<div align="center">
-  <a href="https://github.com/stephaniaslis">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=stephaniaslis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniaslis&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
 <div align="center">
   <a href="https://github.com/stephaniaslis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephaniaslis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniaslis&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ste-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="Ste-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
