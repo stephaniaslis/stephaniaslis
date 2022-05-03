@@ -1,5 +1,7 @@
 Hi, I’m Stephania!
 
+Brazilian who lives in Netherlands 🌷
+
 Data Scientist 👩‍💻
 
 BSc in Chemical Sciences ⚛️
