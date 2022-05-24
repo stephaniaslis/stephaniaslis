@@ -1,6 +1,6 @@
 Hi, I’m Stephania!
 
-Brazilian who lives in Netherlands 🌷
+Brazilian living in Netherlands 🌷
 
 Data Scientist 👩‍💻
 
